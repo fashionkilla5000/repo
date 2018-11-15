@@ -6,14 +6,14 @@ int main()
     scanf("%c", &znak);
     if(znak=='.')
     {
-        printf("prawidlowo");
+        printf("dobrze");
     }
     else
     {
-        printf("blednie");
+        printf("zle");
     }
 	
-	printf("teraz program się skonczy");
+	
 
     getchar();
 
