@@ -12,6 +12,8 @@ int main()
     {
         printf("blednie");
     }
+	
+	printf("teraz program się skonczy");
 
     getchar();
 
